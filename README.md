@@ -1,5 +1,5 @@
 # CoffeeWebSite
-Coffee and Cafe WebSite with C# Form
+Coffee and Cafe WebSite with C# Web Form
 
 draft of website - 
 
